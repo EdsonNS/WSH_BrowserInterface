@@ -1,0 +1,2 @@
+# WSH_BrowserInterface
+English: When a WSH Script (Windows Script Host) is running we do not know how it is processing, or we were unable to pause or finish it in an elegant way, so we created an interface with IE (Internet Explorer) to interact with the WSH Script .   Portuguese/Portugês:  Quando um Script WSH (Windows Script Host)está em execução não sabemos como está o processamento, ou não conseguimos pausa-lo ou finaliza-lo de maneira elegante, então criamos uma interface com o IE (Internet Explorer) para interagir com o Script WSH.
